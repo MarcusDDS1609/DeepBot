@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "SearchBot",
+  "description": "Hi I am DeepBot! Haha!",
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,6 @@
   },
   "dependencies": {
     "discord.js": "11.1.0",
+    "request": "2.81.0"
   }
 }
